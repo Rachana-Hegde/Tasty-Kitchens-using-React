@@ -49,7 +49,7 @@ Tasty-Kitchen/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/tasty-kitchen.git
+git clone https://github.com/Rachana-Hegde/tasty-kitchen.git
 ```
 
 2. Navigate to the project folder
