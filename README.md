@@ -110,4 +110,4 @@ GitHub: [GitHub Profile](https://github.com/Rachana-Hegde)
 
 ## 🌐 Live Demo
 
-tastykitchenrrh.ccbp.tech
+https://tastykitchenrrh.ccbp.tech
